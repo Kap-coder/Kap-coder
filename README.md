@@ -55,7 +55,6 @@ J’aime mélanger **code & design** pour créer des solutions modernes et impac
 ## 🌐 Me retrouver
 - 📧 **Email :** kapelange007@gmail.com  
 - 💼 **LinkedIn :** https://www.linkedin.com/in/kapel-ange-853a38318 
-- 🐦 **Twitter :** [Ton Twitter ici]  
 
 ---
 
